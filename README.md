@@ -18,9 +18,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering student at **Aptech North Nazimabad**
-- 🧑‍💻 Currently focusing on **personal projects**, **open-source**, and **skill-building**
-- 💡 Passionate about creating **responsive**, **secure**, and **scalable** web applications
-- 🚀 Latest Project: **Jobistan** – A dynamic job portal with modern features
+- 🧑‍💻 Currently focused on **personal projects**, **open-source**, and **learning**
+- 💡 Passionate about building **scalable**, **secure**, and **modern** web apps
+- 🚀 Latest Project: **Jobistan** – A job portal with dynamic features
 
 ---
 
@@ -35,6 +35,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery)
+
+### 🖼️ Frontend Libraries & Frameworks  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### 🎨 UI & Styling  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
@@ -52,20 +57,20 @@
 ## 🧩 Notable Projects
 
 ### 🔗 [Jobistan – Job Portal Website](https://github.com/Malik-Ubaidullah/Jobistan)
-- 🔐 Secure user login with OTP email verification  
-- 🧾 Resume/image upload, voice messaging  
-- 🔎 Advanced filtering, AJAX search  
-- ⚙️ Built with PHP, MySQL, AJAX, PHPMailer
+- 🔐 OTP verification & role-based login  
+- 📤 Resume & image upload, voice messaging  
+- 🔎 AJAX filtering & job search  
+- ⚙️ PHP, MySQL, AJAX, PHPMailer
 
 ### 🔗 [Watch-Hub – Shopping Web App](https://github.com/Malik-Ubaidullah/Watch-Hub)
-- 📱 Flutter mobile-first design  
-- 🛒 Full cart & checkout flow  
-- 🔐 Auth system with Firebase
+- 📱 Built using Flutter  
+- 🛒 Cart, checkout & auth  
+- 🔐 Firebase integration
 
 ### 🔗 [Art Web – Creative Platform](https://github.com/Malik-Ubaidullah/ArtWeb)
-- 🎨 Artists dashboard + uploads  
-- 👥 Role-based login system  
-- 🧾 Admin panel for artwork & orders
+- 🎨 Art-selling platform with dashboards  
+- 👥 Role-based access  
+- 🧾 Admin panel for managing orders
 
 ---
 
@@ -87,3 +92,5 @@
 - 💻 GitHub: [Malik-Ubaidullah](https://github.com/Malik-Ubaidullah)
 
 ---
+
+
