@@ -68,7 +68,7 @@ public class Developer
 
 <div align="center">
 
-### 🎯 Core Expertise
+### 🎯 Backend & Core Technologies
 
 <table>
   <tr>
@@ -77,28 +77,67 @@ public class Developer
       <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt="ASP.NET" width="48" height="48" />
-      <br>ASP.NET Core
+      <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" width="48" height="48" />
+      <br>.NET Core
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-      <br>SQL Server
+      <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" width="48" height="48" />
+      <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-      <br>REST API
+      <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="48" height="48" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
-      <br>Git
+      <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express.js" width="48" height="48" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="MVC" width="48" height="48" />
+      <br>MVC
     </td>
   </tr>
 </table>
 
-### 🎨 Frontend & Mobile
+### 🗄️ Databases
 
 <table>
   <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="48" height="48" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" width="48" height="48" />
+      <br>Firebase
+    </td>
+  </tr>
+</table>
+
+### 🎨 Frontend Technologies
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="48" height="48" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Sass" width="48" height="48" />
+      <br>Sass
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
       <br>JavaScript
@@ -108,47 +147,68 @@ public class Developer
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="48" height="48" />
+      <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" width="48" height="48" />
       <br>Angular
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" width="48" height="48" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="48" height="48" />
-      <br>CSS3
     </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" width="48" height="48" />
       <br>Bootstrap
     </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" width="48" height="48" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="jQuery" width="48" height="48" />
+      <br>jQuery
+    </td>
   </tr>
 </table>
 
-### 🛠️ Tools & Technologies
+### 📱 Mobile Development
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="48" height="48" />
-      <br>VS Code
+      <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" width="48" height="48" />
+      <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" width="48" height="48" />
-      <br>Visual Studio
+      <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" width="48" height="48" />
+      <br>Firebase
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tools & DevOps
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
+      <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" width="48" height="48" />
-      <br>Firebase
+      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="48" height="48" />
+      <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="48" height="48" />
-      <br>jQuery
+      <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="Visual Studio" width="48" height="48" />
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+      <br>REST APIs
     </td>
   </tr>
 </table>
@@ -190,7 +250,7 @@ public class Developer
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         </p>
-        <p><strong>Comprehensive job portal</strong> with OTP validation, voice messaging, advanced filters, and responsive UI. AJAX-based data handling for seamless UX.</p>
+        <p><strong>Cutting-edge job search & recruitment platform</strong> with secure authentication, AI image detection, advanced job filters, built-in messaging system, resume builder, and comprehensive analytics dashboards for seamless job seeker-employer connections.</p>
       </div>
     </td>
   </tr>
