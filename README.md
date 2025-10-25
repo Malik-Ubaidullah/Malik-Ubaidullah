@@ -304,10 +304,6 @@ public class Developer
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Malik-Ubaidullah&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malik-Ubaidullah&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 💼 Professional Experience
