@@ -376,9 +376,6 @@ public class Developer
 <a href="https://github.com/Malik-Ubaidullah">
   <img src="https://img.shields.io/badge/GitHub-Malik--Ubaidullah-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="tel:+923226357117">
-  <img src="https://img.shields.io/badge/Phone-+92_322_6357117-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-</a>
 
 <br><br>
 
